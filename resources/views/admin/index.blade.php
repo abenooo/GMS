@@ -14,7 +14,7 @@
         </div>
     @endif
 
-
+<!-- table using dataTable liberary -->
     <table class="table table-striped" id="address_type_table">
                     <thead>
                         <tr>
